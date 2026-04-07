@@ -112,12 +112,11 @@ Ce projet démontre comment une architecture Big Data permet de transformer des 
 
 ---
 
-## 👥 Auteurs
+## 👥 Membres du groupe
 
-Projet réalisé dans le cadre du MBA ESG – Architecture Big Data  
+Projet réalisé dans le cadre du MBA ESG – Architecture Big Data
 
-Groupe :
-- Mingue Bobic  
-- Malika Ivan  
+*- MINGUE KEPSI Bobic*
+*- ADONI Allika Mireille*
 
 Année : 2025–2026
