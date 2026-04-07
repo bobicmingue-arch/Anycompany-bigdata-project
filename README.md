@@ -116,7 +116,7 @@ Ce projet démontre comment une architecture Big Data permet de transformer des 
 
 Projet réalisé dans le cadre du MBA ESG – Architecture Big Data
 
-*- MINGUE KEPSI Bobic*
-*- ADONI Allika Mireille*
+- MINGUE KEPSI Bobic
+- ADONI Allika Mireille
 
 Année : 2025–2026
