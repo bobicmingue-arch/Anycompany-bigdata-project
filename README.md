@@ -118,5 +118,6 @@ Projet réalisé dans le cadre du MBA ESG – Architecture Big Data
 
 - MINGUE KEPSI Bobic
 - ADONI Allika Mireille
+- TAGNE KAMGHEM Leonel 
 
 Année : 2025–2026
