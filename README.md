@@ -1,5 +1,5 @@
 ## 🚀 Projet Big Data – Marketing Data-Driven avec Snowflake
-
+ 
 ## 📌 Contexte du projet 
 
 Ce projet s’inscrit dans le cadre de l’évaluation **Architecture Big Data** (MBA ESG).  
