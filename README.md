@@ -1,6 +1,6 @@
-# 🚀 Projet Big Data – Marketing Data-Driven avec Snowflake
+ 🚀 Projet Big Data – Marketing Data-Driven avec Snowflake
 
-## 📌 Contexte du projet
+## 📌 Contexte du projet 
 
 Ce projet s’inscrit dans le cadre de l’évaluation **Architecture Big Data** (MBA ESG).  
 Il simule une initiative de transformation data-driven menée par **AnyCompany Food & Beverage**, une entreprise fictive confrontée à une baisse significative de ses ventes et à une réduction de 30 % de son budget marketing.
