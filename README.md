@@ -1,4 +1,4 @@
-## 🚀 Projet Big Data – Marketing Data-Driven avec Snowflake
+## 🚀 PROJET BIG DATA – MARKETING DATA-DRIVEN avec Snowflake
  
 ## 📌 Contexte du projet 
 
