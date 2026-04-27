@@ -9,6 +9,31 @@ L’objectif du projet est de démontrer comment une architecture Big Data moder
 
 ---
 
+
+## Répartition des tâches au sein du groupe
+
+Afin de mener à bien le projet, les tâches ont été réparties entre les membres du groupe comme suit :
+
+ ### MINGUE KEPSI Bobic
+
+- Mise en place de l’environnement Snowflake
+- Création des schémas BRONZE, SILVER et ANALYTICS
+- Chargement des données (COPY INTO)
+- Nettoyage des données (tables SILVER)
+
+### ADONI Allika Mireille
+
+- Analyses exploratoires SQL (Phase 2.1 et 2.2)
+- Analyses transverses métiers (impact promotions, performance marketing)
+- Rédaction des scripts d’analyse SQL
+
+### TAGNE KAMGHEM Leonel
+
+- Création du produit de données analytique
+- Feature engineering
+- Rédaction des recommandations business
+- Structuration du dépôt GitHub et documentation (README, business_insights)
+
 ## 🎯 Objectifs business
 
 - Inverser la tendance à la baisse des ventes
@@ -112,31 +137,5 @@ Ce projet démontre comment une architecture Big Data permet de transformer des 
 
 ---
 
-## 👥 Membres du groupe
-
-Projet réalisé dans le cadre du MBA ESG – Architecture Big Data
-
-MINGUE KEPSI Bobic
-
-Mise en place de l’environnement Snowflake
-Création des schémas BRONZE, SILVER et ANALYTICS
-Chargement des données (COPY INTO)
-Nettoyage des données (tables SILVER)
 
 
-
-ADONI Allika Mireille
-
-Analyses exploratoires SQL (Phase 2.1 et 2.2)
-Analyses transverses métiers (impact promotions, performance marketing)
-Rédaction des scripts d’analyse SQL
-
-
-
-TAGNE KAMGHEM Leonel
-
-Création du produit de données analytique
-Feature engineering
-Rédaction des recommandations business
-Structuration du dépôt GitHub et documentation (README, business_insights)
-Année : 2025–2026
